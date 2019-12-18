@@ -1,0 +1,11 @@
+body {
+    background: rgb(246, 211, 255);
+    font-style: initial;
+h1 {
+    color: blue;
+}
+.warna {
+    font-color: white;
+    font-family : sans-serif;
+    font-style: normal;
+}
